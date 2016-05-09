@@ -1,0 +1,5 @@
+*.jpg binary
+*.png binary
+*.pdf binary
+*.tex text eol=lf
+*.synctex.gz binary
