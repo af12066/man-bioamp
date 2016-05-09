@@ -1,2 +1,3 @@
-# bce-instructions
-取扱説明書
+# man-bioamp
+
+生体アンプの使い方
